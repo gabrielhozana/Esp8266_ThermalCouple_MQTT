@@ -9,12 +9,12 @@
 #define MQTT_PUBLISH_DELAY 1000
 #define MQTT_CLIENT_ID "esp8266ktc"
 
-const char* WIFI_SSID = "Redmii";
-const char* WIFI_PASSWORD = "12345678xZ";
+const char* WIFI_SSID = "<SSID NAME>";
+const char* WIFI_PASSWORD = "<PASSWORD>";
 
 const char *MQTT_SERVER = "192.168.43.111";
 const long MQTT_PORT = 1883;
-const char *MQTT_USER = "talora"; 
+const char *MQTT_USER = "mqtt_user"; 
 const char *MQTT_PASSWORD = "12345678"; 
 
 float temperature=0.00;
