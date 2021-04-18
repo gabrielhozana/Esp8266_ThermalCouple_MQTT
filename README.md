@@ -1,1 +1,3 @@
-# Esp8266_ThermalCouple_MQTT
+# ThermalCouple_DataSending
+- Protocol MQTT
+- Socket Programming
