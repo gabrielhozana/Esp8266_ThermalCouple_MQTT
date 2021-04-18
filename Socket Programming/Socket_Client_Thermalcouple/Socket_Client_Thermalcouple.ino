@@ -9,8 +9,8 @@ String logServer = "10.0.6.218";//Socket Server
 int logServerPort = 8090;//Port Socket Server
 
 // Internet router credentials
-const char* WIFI_SSID = "DOSEN-TKJ";
-const char* WIFI_PASSWORD = "s4y4b1s4";
+const char* WIFI_SSID = "<SSID WIFI>";
+const char* WIFI_PASSWORD = "<PASSWORD WIFI>";
 int timeDelay = 1000;
 
 String data;
